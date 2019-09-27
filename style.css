@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    text-align: center;
+    font-family: 'Manjari', sans-serif;
+}
+
+#header{
+    padding: 50px;
+    font-size: 4rem;
+}
+
+#storeInfo{
+    text-align: justify;
+    display: flex;
+    justify-content: left;
+}
+
+#footer{
+    margin-top: 50px;
+}
